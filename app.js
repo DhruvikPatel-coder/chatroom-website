@@ -242,7 +242,7 @@ app.use(function(req,res,next){
 	res.render('404');
 });
 
-app.listen(3000,function(){
+app.listen(3014,function(){
 	console.log('Server up and running on port 3014');
 })
 
